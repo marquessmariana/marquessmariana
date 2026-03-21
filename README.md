@@ -32,7 +32,7 @@ Curious to see my journey? 💬 Check out my [LinkedIn](https://www.linkedin.com
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -86,7 +86,7 @@ Curious to see my journey? 💬 Check out my [LinkedIn](https://www.linkedin.com
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
