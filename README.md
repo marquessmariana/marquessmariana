@@ -94,7 +94,7 @@ Curious to see my journey? 💬 Check out my [LinkedIn](https://www.linkedin.com
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marquessmariana&show_icons=true&theme=tokyonight&include_all_commits=true" 
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=marquessmariana&show_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 
  
