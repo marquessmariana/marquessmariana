@@ -6,7 +6,7 @@ I’m Mariana a Data Analyst based in Dublin, passionate about turning data into
 
 I enjoy exploring datasets, building projects from scratch, and creating analyses that help guide smarter business decisions. My goal is to combine technical skills with practical problem-solving to transform data into value.
 
-Curious to see my journey? 💬 Check out my [LinkedIn](https://www.linkedin.com/in/marianamarquesdataanalyst/)
+Curious to see my journey? 💬 Check out my [LinkedIn/mmarquess](https://www.linkedin.com/in/mmarquess/)
 
 
 
