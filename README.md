@@ -17,14 +17,14 @@ Curious to see my journey? 💬 Check out my [LinkedIn/mmarquess](https://www.li
         <img 
             alt="Total stars" 
             title="Total Stars on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/marquessmariana?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/marquessmariana?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600&logo=star&label=Stars&cacheSeconds=0"
         />
     </a>
     <a href="https://github.com/marquessmariana?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/marquessmariana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/marquessmariana?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&cacheSeconds=0"
         />
     </a>
 </p>
